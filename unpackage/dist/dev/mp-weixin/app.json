@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/tabs/index",
+    "pages/tabs/虚拟列表",
+    "pages/tabs/new_file",
+    "pages/tabs/list",
+    "pages/tabs/me",
+    "pages/login/index",
+    "pages/login/phone"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/tabs/index",
+        "text": "推荐"
+      },
+      {
+        "pagePath": "pages/tabs/list",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/tabs/me",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

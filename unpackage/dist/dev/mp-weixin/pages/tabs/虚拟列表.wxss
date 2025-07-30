@@ -1,0 +1,13 @@
+
+.list{
+	position: relative;
+}
+.listi{
+	position: absolute;
+	width: 100%;
+}
+.bgimg{
+	height: 100%;
+	width: 100%;
+}
+

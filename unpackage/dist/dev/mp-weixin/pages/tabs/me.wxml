@@ -1,0 +1,1 @@
+<view class="me"><view data-event-opts="{{[['tap',[['login',['$event']]]]]}}" class="me-bg" bindtap="__e"><image class="me-img" src="/static/logo.png"></image><view class="me-text">登录</view></view><view data-event-opts="{{[['tap',[['sy',['$event']]]]]}}" bindtap="__e">sy</view></view>

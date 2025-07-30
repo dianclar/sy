@@ -1,0 +1,1 @@
+<view><view class="list" style="{{'height:'+(iheigth*$root.g0+'px')+';'}}"><view class="listi" style="{{'top:'+(top+'px')+';'}}"><block wx:for="{{show}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><view style="{{'height:'+(iheigth+'px')+';'}}"><image class="bgimg" src="{{item.skus[0].resources[0].resPath}}"></image></view></block></view></view></view>
